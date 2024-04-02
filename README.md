@@ -29,3 +29,5 @@ Your visualization should look something like the preceding map.
 1. Riana's activity 10 from module 15 day1:  https://git.bootcampcontent.com/Rutgers-University/PSEG-RUT-VIRT-DATA-PT-10-2023-U-LOLC/-/blob/main/01-Lesson-Plans/15-Mapping/1/Activities/10-Stu_GeoJson/Solved/logic.js
 
 2. To get the hex codes for colors: https://www.color-hex.com/color-names.html
+
+3. For legend: https://gis.stackexchange.com/questions/133630/adding-leaflet-legend
